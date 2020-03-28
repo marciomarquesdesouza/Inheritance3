@@ -17,7 +17,7 @@ public class Program {
 		List<Account> list = new ArrayList<>();
 		
 		list.add(new SavingAccount(1001, "Maria", 500.0, 0.01));
-		list.add(new BusinessAccount(1002, "Morgan", 1000.0, 400.0));
+		list.add(new BusinessAccount(1002, "Vanessa", 1000.0, 400.0));
 		list.add(new SavingAccount(1003, "Marcio", 300.0, 0.01));
 		list.add(new BusinessAccount(1004, "Ian", 500.0, 500.0));
 		
